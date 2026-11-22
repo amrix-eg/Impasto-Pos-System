@@ -72,7 +72,7 @@ Designed to make everyday workflows more organized, accessible, and efficient.
 
 ## </> Developer
 
-**Developed by [Raed Mosaed](https://github.com/raedmosaed0)**
+**Developed by [Amrix](https://github.com/amrix-eg) & [Raed Mosaed](https://github.com/raedmosaed0)**
 
 ---
 
